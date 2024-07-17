@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "Pablo Agustin Miranda",
+    "label": "Full Stack Developer Jr en busca de nuevas oportunidades",
+    "image": "/profile.png",
+    "email": "mirandapabloagustin@gmail.com",
+    "phone": "+54 02254-596229",
+    "summary": "Desarrollador Full Stack Jr, finalizando la Tecnicatura en Programación, me encuentro realizando capacitaciones y cursos para poder aumentar mis habilidades, mientras me mantengo en la búsqueda de nuevas oportunidades profesionales y desarrollo personal.",
+    "location": {
+      "address": null,
+      "postalCode": "7167",
+      "city": "Pinamar, Buenos Aires",
+      "countryCode": "ES",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Pablo Agustin Miranda",
+        "url": "https://www.linkedin.com/in/pablo-agustin-miranda-7b846423b/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Pablo Agustin Miranda",
+        "url": "https://github.com/mirandapabloagustin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Central de Alarmas SOS",
+      "position": "Monitoreo",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2018-04-01",
+      "endDate": null,
+      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Nutreco Alimentos S.A",
+      "position": "Desarrollador Backend",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Cooperé con la administracion de los Microservicios de la empresa, ademas de la adaptacion de las solicitudes para nuevas funcionalidades del Front y mantenimiento de los ya existentes.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnica Nacional - MDQ",
+      "url": "https://mdp.utn.edu.ar/",
+      "area": "Tecnicatura en Programación",
+      "studyType": "Tecnicatura",
+      "startDate": "2023",
+      "endDate": "2024",
+      "courses": [
+        "Capacitado para trabajar en toda empresa o dependencia que aplique el sistema de procesamiento de datos. Realizar programas y aplicarlos."
+      ]
+    },
+    {
+      "institution": "Secundario Completo - Gral. Madariaga",
+      "url": "https://www.facebook.com/profile.php?id=100057313246906",
+      "area": "Tecnico Maestro Mayor de Obras",
+      "studyType": "Tecnicatura",
+      "startDate": "2007",
+      "endDate": "2013",
+      "courses": [
+        "Egresado con orientacion en construcciones"
+      ]
+    },
+    {
+      "institution": "Universidad Tecnica Nacional - Cordoba",
+      "url": "https://www.frc.utn.edu.ar/",
+      "area": "Programacion",
+      "studyType": "Curso",
+      "startDate": "2023",
+      "endDate": "2024",
+      "courses": [
+        "Capacitado en el desarrollo de aplicaciones web con un enfoque Backend (en el lado del servidor) utilizando el lenguaje de programación JavaScript y la plataforma Node.js."
+      ]
+    },
+    {
+      "institution": "Instituto Hilet - MDQ",
+      "url": "https://mdp.utn.edu.ar/",
+      "area": "Curso en Reparacion de PC",
+      "studyType": "Curso",
+      "startDate": "2022",
+      "endDate": "2023",
+      "courses": [
+        "Capacitado para en el armado de equipos con sus periféricos, el diagnóstico de fallas y errores. Rendimiento y actualizaciones."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Tailwind"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Node"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "C"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pelis Locas",
+      "description": "Gestor de peliculas para un videoclub donde se pueden agregar, modificar y eliminar peliculas. Gestionar usuarios y alquileres.",
+      "highlights": [
+        "Desarrollado en C"
+      ],
+      "url": "https://github.com/mirandapabloagustin/PROYECTO-PelisLocas"
+    },
+    {
+      "name": "Battle Code",
+      "description": "Juego de batallas por turnos donde te entrentas a diferentes enemigos por un laberinto.",
+      "highlights": [
+        "Desarrollado en C"
+      ],
+      "url": "https://github.com/mirandapabloagustin/PROYECTO-BattleCode"
+    },
+    {
+      "name": "Almacen del Caos",
+      "description": "Gestor de almacen donde se pueden agregar, modificar y eliminar productos. Gestionar usuarios y ventas.",
+      "highlights": [
+        "Desarrollado en Java"
+      ],
+      "url": "https://github.com/mirandapabloagustin/PROYECTO-AlmacenDelCaos"
+    },
+    {
+      "name": "Magic Web",
+      "description": "Web de venta de cartas de Magic, donde se pueden agregar, modificar y eliminar cartas. Gestionar usuarios.",
+      "highlights": [
+        "Desarrollado en Angular",
+        "En Desarrollo"
+      ],
+      "url": "https://github.com/mirandapabloagustin/PROYECTO-MagicWeb"
+    }
+  ]
+}
